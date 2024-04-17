@@ -1,0 +1,1 @@
+C:\Users\Kajtek\source\repos\CollectionManagementSystem\CollectionManagementSystem\CollectionManagementSystem.csproj;x64
